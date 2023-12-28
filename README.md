@@ -1,19 +1,18 @@
-# Bitcoin-forecast
+# Bitcoin Forecasting with Deep Learning
 
 ## Motivation
-A very interesting property of cryptocurrencies is their volatility, which is why many people start trading cryptocurrencies. In fact, couple of years ago I got into trading, however, I left it without many results due to lack of time. Now I have a lot of knowledge in ML, so I would like to trade based on predictions from various models.
+Cryptocurrencies are known for their high volatility, making them a fascinating asset for traders. A few years ago, I ventured into cryptocurrency trading but had to step away due to time constraints. Now, armed with substantial knowledge in Machine Learning, I am eager to re-enter the world of cryptocurrency trading by making informed decisions based on predictive models.
 
-Considering the amount of data, and high volatility in recent years, the study will be based on the bitcoin price in dollars from ~2019, using daily timeframe.
+Given the wealth of historical data and recent market turbulence, this project focuses on predicting the price of Bitcoin in USD since 2019, using a daily timeframe.
+
+## Key Objectives
+
+### Problem 1: Bitcoin Price Prediction
+Our primary goal is to develop accurate forecasts for Bitcoin's price utilizing state-of-the-art machine learning models. By doing so, we aim to provide valuable insights for traders and investors.
 
 
-## Problem 1: Trying to predict the price of bitcoin
-We want to forecast the bitcoin price using state of art models.
-
-
-## Problem 2: Classify if in X days the price will increase in Y percentage
-With the same trading motivation, a usual question that comes up is whether in X amount of days, the price will manage to go up by Y percentage. 
-
-For this, we propose to solve a binary classification problem, where we try to predict whether in X days, the price will rise by Y percentage.
+### Problem 2: Price Trend Classification
+To address the trading aspect, we seek to answer a common question: Can we predict whether Bitcoin's price will increase by a certain percentage within a specified timeframe (X days)? This is tackled as a binary classification problem, where our models will predict whether the price will rise by Y percentage in X days.
 
 
 
@@ -21,3 +20,8 @@ For this, we propose to solve a binary classification problem, where we try to p
 
 1. https://s3.ap-northeast-2.amazonaws.com/journal-home/journal/jips/fullText/200/jips_680.pdf
 
+## 
+
+Feel free to explore the code and documentation within this repository to gain insights into our cryptocurrency price forecasting and classification models.
+
+Your feedback and contributions are highly appreciated! Please star this repository if you find it useful.
