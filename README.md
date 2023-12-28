@@ -10,6 +10,11 @@ Considering the amount of data, and high volatility in recent years, the study w
 We want to forecast the bitcoin price using state of art models.
 
 
+## Problem 2: Classify if in X days the price will increase in Y percentage
+With the same trading motivation, a usual question that comes up is whether in X amount of days, the price will manage to go up by Y percentage. 
+
+For this, we propose to solve a binary classification problem, where we try to predict whether in X days, the price will rise by Y percentage.
+
 
 
 ## Bibliographic resources
