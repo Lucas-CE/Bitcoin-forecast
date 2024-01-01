@@ -14,7 +14,7 @@ Given the wealth of historical data and recent market turbulence, this project f
 Our primary goal is to develop accurate forecasts for Bitcoin's price utilizing state-of-the-art machine learning models. By doing so, we aim to provide valuable insights for traders and investors.
 
 **Results:**
-![Test de predicción del bitcoin](/problem-1/img/test)
+![Test de predicción del bitcoin](Problem-1/img/test.png)
 
 ### Problem 2: Price Trend Classification
 To address the trading aspect, we seek to answer a common question: Can we predict whether Bitcoin's price will increase by a certain percentage within a specified timeframe (X days)? This is tackled as a binary classification problem, where our models will predict whether the price will rise by Y percentage in X days.
