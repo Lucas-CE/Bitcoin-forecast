@@ -5,7 +5,7 @@ Cryptocurrencies are known for their high volatility, making them a fascinating 
 
 Given the wealth of historical data and recent market turbulence, this project focuses on predicting the price of Bitcoin in USD since 2019, using a daily timeframe.
 
-## Key Objectives
+## Problems and results
 
 ### Problem 1: Bitcoin Price Prediction
 
